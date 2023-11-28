@@ -1,0 +1,22 @@
+{
+  "name": "pupperino-discord-bot-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChloeLong/Pupperino-Discord-Bot-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChloeLong/Pupperino-Discord-Bot-JS/issues"
+  },
+  "homepage": "https://github.com/ChloeLong/Pupperino-Discord-Bot-JS#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
